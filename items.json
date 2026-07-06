@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1001",
+    "name": "测试商品1 - 苹果手机",
+    "price": "¥5999",
+    "imageUrl": "https://picsum.photos/200/150?random=1"
+  },
+  {
+    "id": "1002",
+    "name": "测试商品2 - 机械键盘",
+    "price": "¥399",
+    "imageUrl": "https://picsum.photos/200/150?random=2"
+  },
+  {
+    "id": "1003",
+    "name": "测试商品3 - 蓝牙耳机",
+    "price": "¥199",
+    "imageUrl": "https://picsum.photos/200/150?random=3"
+  }
+]
