@@ -1,0 +1,7 @@
+[
+    {"id":1,"title":"关注公众号","desc":"关注指定公众号，获取额外资源","amount":"¥1.00","url":"https://mp.weixin.qq.com/"},
+    {"id":2,"title":"分享给好友","desc":"分享本应用给 3 位好友","amount":"¥2.00","url":"https://www.google.com"},
+    {"id":3,"title":"每日签到","desc":"每日签到领取积分","amount":"¥0.50","url":"https://www.baidu.com"},
+    {"id":4,"title":"观看广告","desc":"观看 30 秒广告支持作者","amount":"¥3.00","url":"https://www.bilibili.com"},
+    {"id":5,"title":"邀请注册","desc":"邀请好友注册，双方得奖励","amount":"¥5.00","url":"https://www.qq.com"}
+]
